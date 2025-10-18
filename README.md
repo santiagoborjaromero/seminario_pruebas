@@ -1,20 +1,22 @@
-# UNIANDES
+# Universidad Autónoma de los Andes - Uniandes
+**Facultad de Ciencias Mercantiles
+Carrera de Ingeniería de Software**      
 
-#### Universidad Autonoma de los Andes
+**Proyecto Seminario Complexivo**
 
 ## **Grupo 8**
 
-Integrantes:
+**AUTORES:**
 
-- Jaime Santiago Borja Romero
-- Hugo Alfredo Herrera Villalva
-- Jorge Luis López Romo
-
-Semario Complexivo
+Hugo Alfredo Herrera Villalva  
+Jaime Santiago Borja Romero  
+Jorge Luis López Romo
 
 ## **Título del Proyecto**
 
 **Construcción de un Sistema de Recomendación Híbrido de Películas.**
+
+![](https://img.shields.io/badge/Version-0.0.1_alpha-orange) 
 
 ## **Definición del Problema**
 
@@ -24,16 +26,16 @@ La desconfianza en las recomendaciones de películas debido a la gran cantidad d
 
 ## **Descripción del Proyecto**
 
-
 ## **Herramientas Utilizadas**
-
+![](https://img.shields.io/badge/Python-3.13-blue)
+![](https://img.shields.io/badge/FastAPI-0.112.0-red) 
 
 ## **Instrucciones**
 
 ### Proceso Pipeline
 
 Pipeline es un proceso de limpieza de los datasets fuente, que incluye:
-1. Depuracion de caracteres UNICODE creando un respaldo de los archivos dataset para poder trabajar con ellos, manteniendo la data original aislada.
+1. Depuración de caracteres UNICODE creando un respaldo de los archivos dataset para poder trabajar con ellos, manteniendo la data original aislada.
 2.  < Aumentar mas procesos>
 
 Consideraciones especiales
