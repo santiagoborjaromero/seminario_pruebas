@@ -1,0 +1,133 @@
+2025-10-18 03:23:46 [INFO] Eliminando archivo destino step1/movie.csv
+2025-10-18 03:23:46 [INFO] UNICODE Inicio proceso del archivo datasets/movie.csv
+2025-10-18 03:23:46 [INFO] UNICODE Fin proceso y creacion del archivo step1/movie.csv
+2025-10-18 03:23:46 [INFO] Eliminando archivo destino step1/rating.csv
+2025-10-18 03:23:46 [INFO] UNICODE Inicio proceso del archivo datasets/rating.csv
+2025-10-18 03:24:02 [INFO] UNICODE Fin proceso y creacion del archivo step1/rating.csv
+2025-10-18 03:24:02 [INFO] Eliminando archivo destino step1/tag.csv
+2025-10-18 03:24:02 [INFO] UNICODE Inicio proceso del archivo datasets/tag.csv
+2025-10-18 03:24:03 [INFO] UNICODE Fin proceso y creacion del archivo step1/tag.csv
+2025-10-18 03:24:03 [INFO] FIN
+2025-10-18 03:25:26 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:25:26 [INFO] PIPELINE INICIO
+2025-10-18 03:25:26 [INFO] Archivos {archivos}
+2025-10-18 03:25:26 [INFO] Eliminando archivo destino step1/movie.csv
+2025-10-18 03:25:26 [INFO] UNICODE Inicio proceso del archivo datasets/movie.csv
+2025-10-18 03:25:26 [INFO] UNICODE Fin proceso y creacion del archivo step1/movie.csv
+2025-10-18 03:25:26 [INFO] Eliminando archivo destino step1/rating.csv
+2025-10-18 03:25:27 [INFO] UNICODE Inicio proceso del archivo datasets/rating.csv
+2025-10-18 03:25:41 [INFO] UNICODE Fin proceso y creacion del archivo step1/rating.csv
+2025-10-18 03:25:41 [INFO] Eliminando archivo destino step1/tag.csv
+2025-10-18 03:25:41 [INFO] UNICODE Inicio proceso del archivo datasets/tag.csv
+2025-10-18 03:25:42 [INFO] UNICODE Fin proceso y creacion del archivo step1/tag.csv
+2025-10-18 03:25:42 [INFO] PIPELINE FIN
+2025-10-18 03:25:44 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:25:44 [INFO] PIPELINE INICIO
+2025-10-18 03:25:44 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:25:44 [INFO] Eliminando archivo destino step1/movie.csv
+2025-10-18 03:25:44 [INFO] UNICODE Inicio proceso del archivo datasets/movie.csv
+2025-10-18 03:25:44 [INFO] UNICODE Fin proceso y creacion del archivo step1/movie.csv
+2025-10-18 03:25:44 [INFO] Eliminando archivo destino step1/rating.csv
+2025-10-18 03:25:44 [INFO] UNICODE Inicio proceso del archivo datasets/rating.csv
+2025-10-18 03:25:58 [INFO] UNICODE Fin proceso y creacion del archivo step1/rating.csv
+2025-10-18 03:25:58 [INFO] Eliminando archivo destino step1/tag.csv
+2025-10-18 03:25:58 [INFO] UNICODE Inicio proceso del archivo datasets/tag.csv
+2025-10-18 03:25:59 [INFO] UNICODE Fin proceso y creacion del archivo step1/tag.csv
+2025-10-18 03:25:59 [INFO] PIPELINE FIN
+2025-10-18 03:30:52 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:30:52 [INFO] PIPELINE INICIO
+2025-10-18 03:30:52 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:30:52 [INFO] Eliminando archivo destino step1/movie.csv
+2025-10-18 03:30:52 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/movie.csv
+2025-10-18 03:30:52 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/movie.csv
+2025-10-18 03:30:52 [INFO] Eliminando archivo destino step1/rating.csv
+2025-10-18 03:30:52 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/rating.csv
+2025-10-18 03:31:04 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/rating.csv
+2025-10-18 03:31:04 [INFO] Eliminando archivo destino step1/tag.csv
+2025-10-18 03:31:04 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/tag.csv
+2025-10-18 03:31:05 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/tag.csv
+2025-10-18 03:31:05 [INFO] PIPELINE FIN
+2025-10-18 03:31:11 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:31:11 [INFO] PIPELINE INICIO
+2025-10-18 03:31:11 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:31:11 [INFO] Eliminando archivo destino step1/movie.csv
+2025-10-18 03:31:11 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/movie.csv
+2025-10-18 03:31:11 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/movie.csv
+2025-10-18 03:31:11 [INFO] Eliminando archivo destino step1/rating.csv
+2025-10-18 03:31:11 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/rating.csv
+2025-10-18 03:31:24 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/rating.csv
+2025-10-18 03:31:24 [INFO] Eliminando archivo destino step1/tag.csv
+2025-10-18 03:31:24 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/tag.csv
+2025-10-18 03:31:24 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/tag.csv
+2025-10-18 03:31:24 [INFO] PIPELINE FIN
+2025-10-18 03:31:29 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:31:29 [INFO] PIPELINE INICIO
+2025-10-18 03:31:29 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:31:29 [INFO] Eliminando archivo destino step1/movie.csv
+2025-10-18 03:31:29 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/movie.csv
+2025-10-18 03:31:29 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/movie.csv
+2025-10-18 03:31:29 [INFO] Eliminando archivo destino step1/rating.csv
+2025-10-18 03:31:29 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/rating.csv
+2025-10-18 03:31:41 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/rating.csv
+2025-10-18 03:31:41 [INFO] Eliminando archivo destino step1/tag.csv
+2025-10-18 03:31:41 [INFO] UNICODE Inicio proceso de limpieza del archivo datasets/tag.csv
+2025-10-18 03:31:41 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo step1/tag.csv
+2025-10-18 03:31:41 [INFO] PIPELINE FIN
+2025-10-18 03:41:04 [INFO] Creando directorio D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/src/datasets/
+2025-10-18 03:41:04 [INFO] Creando directorio D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/src/step1/
+2025-10-18 03:41:04 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:41:04 [INFO] PIPELINE INICIO
+2025-10-18 03:41:04 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:41:04 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/src/datasets/movie.csv
+2025-10-18 03:41:04 [ERROR] (1A) [Errno 2] No such file or directory: 'D:\\Personal\\UNIANDES\\OneDrive\\OneDrive - UNIANDES\\SEMINARIO\\Proyecto\\srhp\\pipeline/src/datasets/movie.csv'
+2025-10-18 03:41:04 [ERROR] (1B) name 'content' is not defined
+2025-10-18 03:41:04 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/src/datasets/rating.csv
+2025-10-18 03:41:04 [ERROR] (1A) [Errno 2] No such file or directory: 'D:\\Personal\\UNIANDES\\OneDrive\\OneDrive - UNIANDES\\SEMINARIO\\Proyecto\\srhp\\pipeline/src/datasets/rating.csv'
+2025-10-18 03:41:04 [ERROR] (1B) name 'content' is not defined
+2025-10-18 03:41:04 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/src/datasets/tag.csv
+2025-10-18 03:41:04 [ERROR] (1A) [Errno 2] No such file or directory: 'D:\\Personal\\UNIANDES\\OneDrive\\OneDrive - UNIANDES\\SEMINARIO\\Proyecto\\srhp\\pipeline/src/datasets/tag.csv'
+2025-10-18 03:41:04 [ERROR] (1B) name 'content' is not defined
+2025-10-18 03:41:04 [INFO] PIPELINE FIN
+2025-10-18 03:42:06 [INFO] Creando directorio D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/object/
+2025-10-18 03:42:06 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:42:06 [INFO] PIPELINE INICIO
+2025-10-18 03:42:06 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:42:06 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/datasets/movie.csv
+2025-10-18 03:42:06 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/object/movie.csv
+2025-10-18 03:42:06 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/datasets/rating.csv
+2025-10-18 03:42:21 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/object/rating.csv
+2025-10-18 03:42:21 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/datasets/tag.csv
+2025-10-18 03:42:22 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/object/tag.csv
+2025-10-18 03:42:22 [INFO] PIPELINE FIN
+2025-10-18 03:42:25 [INFO] Creando directorio D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/ds_object/
+2025-10-18 03:42:25 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:42:25 [INFO] PIPELINE INICIO
+2025-10-18 03:42:25 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:42:25 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/datasets/movie.csv
+2025-10-18 03:42:25 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/ds_object/movie.csv
+2025-10-18 03:42:25 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/datasets/rating.csv
+2025-10-18 03:42:41 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/ds_object/rating.csv
+2025-10-18 03:42:41 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/datasets/tag.csv
+2025-10-18 03:42:42 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/ds_object/tag.csv
+2025-10-18 03:42:42 [INFO] PIPELINE FIN
+2025-10-18 03:49:12 [INFO] Creando directorio D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/dataset_object/
+2025-10-18 03:49:12 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:49:12 [INFO] PIPELINE INICIO
+2025-10-18 03:49:12 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:49:12 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/../dataset_source/movie.csv
+2025-10-18 03:49:12 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/dataset_object/movie.csv
+2025-10-18 03:49:12 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/../dataset_source/rating.csv
+2025-10-18 03:49:27 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/dataset_object/rating.csv
+2025-10-18 03:49:27 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/../dataset_source/tag.csv
+2025-10-18 03:49:28 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/dataset_object/tag.csv
+2025-10-18 03:49:28 [INFO] PIPELINE FIN
+2025-10-18 03:50:01 [INFO] ------------------------------------------------------------------------------
+2025-10-18 03:50:01 [INFO] PIPELINE INICIO
+2025-10-18 03:50:01 [INFO] Archivos ['movie.csv', 'rating.csv', 'tag.csv']
+2025-10-18 03:50:01 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/../dataset_source/movie.csv
+2025-10-18 03:50:01 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/dataset_object/movie.csv
+2025-10-18 03:50:01 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/../dataset_source/rating.csv
+2025-10-18 03:50:13 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/dataset_object/rating.csv
+2025-10-18 03:50:13 [INFO] UNICODE Inicio proceso de limpieza del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/../dataset_source/tag.csv
+2025-10-18 03:50:14 [INFO] UNICODE Fin proceso de limpieza y creacion del archivo D:\Personal\UNIANDES\OneDrive\OneDrive - UNIANDES\SEMINARIO\Proyecto\srhp\pipeline/dataset_object/tag.csv
+2025-10-18 03:50:14 [INFO] PIPELINE FIN
