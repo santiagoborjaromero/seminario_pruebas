@@ -1,7 +1,6 @@
 import streamlit as st
-import datetime
 
-st.title('Peliculas')
+st.title('SRHP')
 
 def logout():
     st.session_state.logged_in = False
