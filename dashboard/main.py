@@ -11,7 +11,7 @@ if "logged_in" not in st.session_state:
 
 if st.session_state.logged_in == False:
     pages = []
-    pages.append(st.Page("pages/signin.py", title="Ingreso", icon=":material/add_circle:"))
+    pages.append(st.Page("pages/signin.py", title="Ingreso", icon=":material/login:"))
     pages.append(st.Page("pages/signup.py", title="Registro", icon=":material/add_circle:"))
     pg = st.navigation(pages, position="top")
 else:
@@ -19,11 +19,13 @@ else:
     admin = []
     perfil = []
     
-    dashboard.append(st.Page("pages/dashboard.py", title="Peliculas", icon=":material/add_circle:"))
+    dashboard.append(st.Page("pages/dashboard.py", title="Dashboards", icon=":material/add_circle:"))
     
+    admin.append(st.Page("pages/movies.py", title="Peliculas", icon=":material/add_circle:"))
+    admin.append(st.Page("pages/genres.py", title="Género", icon=":material/add_circle:"))
     admin.append(st.Page("pages/user.py", title="Usuarios", icon=":material/add_circle:"))
     
-    perfil.append(st.Page(logout, title="Salir del Sistema", icon=":material/add_circle:"))
+    perfil.append(st.Page(logout, title="Salir del Sistema", icon=":material/logout:"))
     
     pg = st.navigation(
         {

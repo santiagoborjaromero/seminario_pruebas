@@ -1,7 +1,7 @@
 import streamlit as st
 import datetime
 
-st.title('Registro')
+st.subheader('Registro')
 
 def func_registro():
     print("Registrado")

@@ -1,12 +1,11 @@
 import streamlit as st
 import datetime
 
-st.title('Autorización')
+st.subheader('Autorización')
 
 def func_login():
     print("Login")
     st.session_state.logged_in = True
-    
 
 with st.form(key='my_form'):
     st.write("Por favor ingrese usuario y contraseña")
