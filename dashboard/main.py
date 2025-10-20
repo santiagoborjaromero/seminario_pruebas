@@ -17,13 +17,19 @@ if st.session_state.logged_in == False:
 else:
     dashboard = []
     admin = []
+    perfil = []
+    
     dashboard.append(st.Page("pages/dashboard.py", title="Peliculas", icon=":material/add_circle:"))
+    
     admin.append(st.Page("pages/user.py", title="Usuarios", icon=":material/add_circle:"))
+    
+    perfil.append(st.Page(logout, title="Salir del Sistema", icon=":material/add_circle:"))
     
     pg = st.navigation(
         {
             "Dashboards": dashboard,
             "Administración": admin,
+            "Cuenta": perfil,
         },
     )
     
